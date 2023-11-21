@@ -1,0 +1,21 @@
+.jeuxdevinettes{
+    border:1px solid black;
+    text-align: center;
+    width: 600px;
+    font-size: 2em;
+   
+}
+.devinette{
+   padding:50px;
+
+}
+
+input,button{
+    font-size: 1.2em;
+}
+input[type="number"]{
+    font-size: 1.2em;
+    text-align: center;
+}
+
+

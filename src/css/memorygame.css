@@ -1,0 +1,32 @@
+.jeuxmemoire{
+    border:1px solid black;
+    text-align: center;
+    width: auto;
+    font-size: 2em;
+    width:100%;
+   
+
+}
+.cards{
+    display:flex;
+    flex-direction: row;
+  
+    align-items: center;
+    
+    flex-wrap:wrap;
+    width: 400px;
+    margin:auto;
+}
+.cards img{
+width:100px;
+}
+
+
+input,button{
+    font-size: 1.2em;
+}
+input[type="number"]{
+    font-size: 1.2em;
+    text-align: center;
+}
+
